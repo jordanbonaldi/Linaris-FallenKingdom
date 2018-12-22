@@ -1,0 +1,8 @@
+name: FallenKingdoms
+author: Neferett
+version: 1.0.1
+main: net.linaris.fk.FKPlugin
+depend: [ProtocolLib]
+commands:
+  fk:
+    permission: fk.admin
